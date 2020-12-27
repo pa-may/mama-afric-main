@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/afric-main/static/css/main.9b8b43b5.chunk.css",
+    "main.js": "/afric-main/static/js/main.7c41e498.chunk.js",
+    "main.js.map": "/afric-main/static/js/main.7c41e498.chunk.js.map",
+    "runtime-main.js": "/afric-main/static/js/runtime-main.1c7fee41.js",
+    "runtime-main.js.map": "/afric-main/static/js/runtime-main.1c7fee41.js.map",
+    "static/js/2.4a63a39a.chunk.js": "/afric-main/static/js/2.4a63a39a.chunk.js",
+    "static/js/2.4a63a39a.chunk.js.map": "/afric-main/static/js/2.4a63a39a.chunk.js.map",
+    "static/js/3.e34125d7.chunk.js": "/afric-main/static/js/3.e34125d7.chunk.js",
+    "static/js/3.e34125d7.chunk.js.map": "/afric-main/static/js/3.e34125d7.chunk.js.map",
+    "index.html": "/afric-main/index.html",
+    "static/css/main.9b8b43b5.chunk.css.map": "/afric-main/static/css/main.9b8b43b5.chunk.css.map",
+    "static/js/2.4a63a39a.chunk.js.LICENSE.txt": "/afric-main/static/js/2.4a63a39a.chunk.js.LICENSE.txt",
+    "static/media/home.scss": "/afric-main/static/media/spices.0b6d4173.jpeg",
+    "static/media/shoppingCart.scss": "/afric-main/static/media/cross.d5ab96da.svg",
+    "static/media/products.scss": "/afric-main/static/media/basket-with-vegetables.49e5ee39.jpg",
+    "static/media/header.scss": "/afric-main/static/media/user.3e95d96e.svg",
+    "static/media/footer.scss": "/afric-main/static/media/payment.c0ca5668.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c7fee41.js",
+    "static/js/2.4a63a39a.chunk.js",
+    "static/css/main.9b8b43b5.chunk.css",
+    "static/js/main.7c41e498.chunk.js"
+  ]
+}
