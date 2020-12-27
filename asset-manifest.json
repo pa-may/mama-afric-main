@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mama-afric-main/static/css/main.6e57c308.chunk.css",
+    "main.js": "/mama-afric-main/static/js/main.7c41e498.chunk.js",
+    "main.js.map": "/mama-afric-main/static/js/main.7c41e498.chunk.js.map",
+    "runtime-main.js": "/mama-afric-main/static/js/runtime-main.83377394.js",
+    "runtime-main.js.map": "/mama-afric-main/static/js/runtime-main.83377394.js.map",
+    "static/js/2.4a63a39a.chunk.js": "/mama-afric-main/static/js/2.4a63a39a.chunk.js",
+    "static/js/2.4a63a39a.chunk.js.map": "/mama-afric-main/static/js/2.4a63a39a.chunk.js.map",
+    "static/js/3.e34125d7.chunk.js": "/mama-afric-main/static/js/3.e34125d7.chunk.js",
+    "static/js/3.e34125d7.chunk.js.map": "/mama-afric-main/static/js/3.e34125d7.chunk.js.map",
+    "index.html": "/mama-afric-main/index.html",
+    "static/css/main.6e57c308.chunk.css.map": "/mama-afric-main/static/css/main.6e57c308.chunk.css.map",
+    "static/js/2.4a63a39a.chunk.js.LICENSE.txt": "/mama-afric-main/static/js/2.4a63a39a.chunk.js.LICENSE.txt",
+    "static/media/home.scss": "/mama-afric-main/static/media/spices.0b6d4173.jpeg",
+    "static/media/shoppingCart.scss": "/mama-afric-main/static/media/cross.d5ab96da.svg",
+    "static/media/products.scss": "/mama-afric-main/static/media/basket-with-vegetables.49e5ee39.jpg",
+    "static/media/header.scss": "/mama-afric-main/static/media/user.3e95d96e.svg",
+    "static/media/footer.scss": "/mama-afric-main/static/media/payment.c0ca5668.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83377394.js",
+    "static/js/2.4a63a39a.chunk.js",
+    "static/css/main.6e57c308.chunk.css",
+    "static/js/main.7c41e498.chunk.js"
+  ]
+}
